@@ -1,0 +1,11 @@
+.git
+.openai
+tmp
+.DS_Store
+*.tar.gz
+Resources
+index.html
+previous.html
+previous-styles.css
+script.js
+styles.css
